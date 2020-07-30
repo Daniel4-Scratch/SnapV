@@ -1,2 +1,2 @@
-# SnapV
-![SnapV Image](/SnapV.jpg)
+![SnapV Image](https://snapv.github.io/SnapV.jpg)
+[Download](https://snapv.github.io/SnapV.xml)
