@@ -1,3 +1,3 @@
-![SnapV Image!!](https://snapv.github.io/)
+![SnapV Image!!](https://snapv.github.io/SnapV.jpg)
 
 
