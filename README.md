@@ -1,2 +1,4 @@
 ![SnapV Logo](https://snapv.github.io/SnapV/SnapV.jpg)
-Downloa for free
+
+Download for free
+[Information](https://forum.snap.berkeley.edu/t/snapv)
