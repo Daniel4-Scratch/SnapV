@@ -1,3 +1,2 @@
-![SnapV Image!!](https://snapv.github.io/SnapV.jpg)
-
-
+![SnapV Logo](https://snapv.github.io/SnapV/SnapV.jpg)
+Downloa for free
