@@ -2,4 +2,4 @@
 
 
 
-[![](https://img.shields.io/badge/-Download-Green)](https://forum.snap.berkeley.edu/t/snapv)
+<a href="https://forum.snap.berkeley.edu/t/snapv"><img width="190" src="https://img.shields.io/badge/-Download For Free ⟱-Green"></a>
