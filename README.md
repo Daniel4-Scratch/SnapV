@@ -1,4 +1,5 @@
 ![SnapV Logo](/SnapV.jpg)
 
-Download for free
-[Information](https://forum.snap.berkeley.edu/t/snapv)
+
+
+[![](https://img.shields.io/badge/-Download-Green)](https://forum.snap.berkeley.edu/t/snapv)
